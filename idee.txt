@@ -1,0 +1,3 @@
+1. De css markup van text in het style.css bestand doen in plaats van het html bestand.
+
+2. Meer informatie geven in de opening van het HTML bestand zoals de lang en xmllang attributen.
